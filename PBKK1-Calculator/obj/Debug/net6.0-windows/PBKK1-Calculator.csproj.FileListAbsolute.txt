@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\bin\Debug\net6.0-windows\PBKK1-Calculator.exe
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\bin\Debug\net6.0-windows\PBKK1-Calculator.deps.json
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\bin\Debug\net6.0-windows\PBKK1-Calculator.runtimeconfig.json
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\bin\Debug\net6.0-windows\PBKK1-Calculator.dll
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\bin\Debug\net6.0-windows\PBKK1-Calculator.pdb
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\obj\Debug\net6.0-windows\PBKK1-Calculator.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\obj\Debug\net6.0-windows\PBKK1_Calculator.Form1.resources
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\obj\Debug\net6.0-windows\PBKK1-Calculator.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\obj\Debug\net6.0-windows\PBKK1-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\obj\Debug\net6.0-windows\PBKK1-Calculator.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\obj\Debug\net6.0-windows\PBKK1-Calculator.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\obj\Debug\net6.0-windows\PBKK1-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\obj\Debug\net6.0-windows\PBKK1-Calculator.dll
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\obj\Debug\net6.0-windows\refint\PBKK1-Calculator.dll
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\obj\Debug\net6.0-windows\PBKK1-Calculator.pdb
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\obj\Debug\net6.0-windows\PBKK1-Calculator.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PBKK1-Calculator\PBKK1-Calculator\obj\Debug\net6.0-windows\ref\PBKK1-Calculator.dll
